@@ -1,3 +1,5 @@
+#Cameron Brown for SI206
+
 # import the random module
 import random
 
